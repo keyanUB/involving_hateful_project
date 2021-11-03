@@ -10,7 +10,8 @@ Few-shot classification: a task in which a classifier must be adapted to accommo
     - Ravi and Larochelle[2]: training an LSTM [3] to produce the updates to a classifier. Here, rather than training a single model over multiple episodes, the LSTM meta-learner learns to train a custom model for each episode.
  - Key Issue: overfiting.
  - Approach: prototypical networks, is based on the idea that there exists an embedding in which points cluster around a single prototype representation for each class.
- - 
+
+### Prototypical Networks
 
   
 
