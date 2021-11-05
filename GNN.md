@@ -4,6 +4,9 @@
 - [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
 
 ### Papers:
+- Decoupling Representation Learning and Classification for GNN-based Anomaly Detection. [[pdf]](https://xiaojingzi.github.io/publications/SIGIR21-Wang-et-al-decoupled-GNN.pdf)<br>
+Yanling Wang, Xiaojing Zi. SIGIR, 2021
+
 - The Graph Neural Network Model. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)<br>
 Franco Scarselli, Marco Gori. IEEE, 2009
 
