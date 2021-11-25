@@ -1,23 +1,19 @@
-# Paper Reading
+# Reading List
 
-## Prototypical Networks for Few-shot Learning. arxiv, 2017 [pdf](https://arxiv.org/pdf/1703.05175.pdf)
+## Paper
 
-### Introduction: 
+- Prototypical Networks for Few-shot Learning. [pdf](https://arxiv.org/pdf/1703.05175.pdf)
+<br> Jake Snell, Kevin Swersky, Richard S. Zemel. arxiv, 2017
 
-Few-shot classification: a task in which a classifier must be adapted to accommodate new classes not seen in training, given only a few examples of each of these classes.
-  - Art of Works:
-    - Vinyals et al.[1]: Matching networks, a weighted nearest-neighbor classifier applied within an embedding space.
-    - Ravi and Larochelle[2]: training an LSTM [3] to produce the updates to a classifier. Here, rather than training a single model over multiple episodes, the LSTM meta-learner learns to train a custom model for each episode.
- - Key Issue: overfiting.
- - Approach: prototypical networks, is based on the idea that there exists an embedding in which points cluster around a single prototype representation for each class.
+- Meta-Transfer Learning for Few-Shot Learning. [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
+<br> Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele.  CVPR, 2019 
 
-### Prototypical Networks
+## Survey
 
+- Generalizing from a Few Examples: A Survey on Few-shot Learning [pdf](https://dl.acm.org/doi/pdf/10.1145/3386252)
+<br> Yaqing Wang, Quanming Yao, JamesT. Kwok. ACM Computing Surveys, 2020
+
+
+## Few-shot Tutorial
+Etienne Bennequin's blog: https://www.sicara.ai/blog/your-few-shot-model-15mn-pytorch
   
-
-### References
-[1]Oriol Vinyals, Charles Blundell, Tim Lillicrap, Daan Wierstra, et al. Matching networks for one shot learning. In Advances in Neural Information Processing Systems, pages 3630–3638, 2016. 
-
-[2]SachinRaviandHugoLarochelle.Optimizationasamodelforfew-shotlearning.InternationalConference on Learning Representations, 2017.
-
-[3]SeppHochreiterandJürgenSchmidhuber.Longshort-termmemory.NeuralComputation,9(8):1735–1780, 1997.

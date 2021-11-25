@@ -16,6 +16,11 @@ Franco Scarselli, Marco Gori. IEEE, 2009
 
 - (May help) Person Re-identification with Deep Similarity-Guided Graph Neural Network. [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yantao_Shen_Person_Re-identification_with_ECCV_2018_paper.pdf) <br>Yantao Shen, Hongsheng Li. ECCV, 2018
 
+- Cola-GNN: Cross-location Attention based Graph Neural Networks for Long-term ILI Prediction [[pdf]](https://yue-ning.github.io/docs/CIKM20-colagnn.pdf)
+<br>Songgaojun Deng, Shusen Wang. CIKM ’20.
+
+- SEDTWik: Segmentation-based Event Detection from Tweets using Wikipedia [[pdf]](https://aclanthology.org/N19-3011.pdf) [[Github]](https://github.com/kevalmorabia97/SEDTWik-Event-Detection-from-Tweets)
+<br> Keval M. Morabia, Neti Lalita Bhanu Murthy, Aruna Malapati. NAACL, 2019
 
 
 ### Survey:
