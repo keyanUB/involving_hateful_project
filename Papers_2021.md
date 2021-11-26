@@ -1,4 +1,4 @@
-## Hate Waves Reading List
+## Hate Waves Reading List (2021)
 
 ### New Papers
 - SoK: Hate, Harassment, and the Changing Landscape of Online Abuse [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/84e24754f62cdddfc7a377233eb348e063e18937.pdf)
