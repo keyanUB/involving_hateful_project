@@ -30,8 +30,6 @@ Shraman Pramanick, Md Shad Akhtar, Tanmoy Chakraborty. ICWSM, 2021
 
 - Game of FAME: Automatic Detection of FAke MEmes [[pdf]](https://www.uvm.edu/~jonaolap/papers/jabiyev2021FAMEmemes.pdf)
 <br> Bahruz Jabiyev, Jeremiah Onaolapo, Gianluca Stringhini, Engin Kirda. 
-colagnn.pdf)
-<br>Songgaojun Deng, Shusen Wang. CIKM ’20.
 
 
 ### Interesting Papers
