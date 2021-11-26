@@ -14,6 +14,13 @@ Franco Scarselli, Marco Gori. IEEE, 2009
 
 - Edge-Labeling Graph Neural Network for Few-shot Learning. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning_CVPR_2019_paper.pdf) <br>Jongmin Kim，Taesup Kim. CVPR, 2019
 
+- Real-time Event Detection on Social Data Streams. [[pdf]](https://arxiv.org/pdf/1907.11229.pdf)
+<br> Mateusz Fedoryszak, Brent Frederick, Vijay Rajaram, Changtao Zhon. KDD 2019
+
+- (Journal) MVGAN: Multi-View Graph Attention Network for Social Event Detection. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3447270?casa_token=Pp4eTLxPnL8AAAAA:Gxil-DFhz8o-TT2gfpvkalhf4ZykH2BKZ2VSStyWo-YZy58yvPllCyAU-1r8Ocmg62lQ2YA-2tbG)
+<br>  Wangqui Cui, Jumping Du. ACM Trans. Intell. Syst. Technol, 2021
+
+
 - (May help) Person Re-identification with Deep Similarity-Guided Graph Neural Network. [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yantao_Shen_Person_Re-identification_with_ECCV_2018_paper.pdf) <br>Yantao Shen, Hongsheng Li. ECCV, 2018
 
 - Cola-GNN: Cross-location Attention based Graph Neural Networks for Long-term ILI Prediction [[pdf]](https://yue-ning.github.io/docs/CIKM20-colagnn.pdf)
