@@ -2,7 +2,7 @@
 
 ### Involving Hate
 
-#### Paper
+#### Papers
 
 - SoK: Hate, Harassment, and the Changing Landscape of Online Abuse [[pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/84e24754f62cdddfc7a377233eb348e063e18937.pdf)
 <br> Kurt Thomas, Devdatta Akhawe, Michael Bailey. S&P, 2021
@@ -34,12 +34,6 @@ Shraman Pramanick, Md Shad Akhtar, Tanmoy Chakraborty. ICWSM, 2021
 - Game of FAME: Automatic Detection of FAke MEmes [[pdf]](https://www.uvm.edu/~jonaolap/papers/jabiyev2021FAMEmemes.pdf)
 <br> Bahruz Jabiyev, Jeremiah Onaolapo, Gianluca Stringhini, Engin Kirda. 
 
-#### Survey
-
-#### Journal
-
-
-#### Blog
 
 ### Interesting Papers
 
