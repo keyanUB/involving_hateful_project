@@ -19,12 +19,17 @@
 
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension [pdf](https://aclanthology.org/2020.acl-main.703.pdf) [code](https://paperswithcode.com/paper/bart-denoising-sequence-to-sequence-pre) Mike Lewis, Yinhan Liu, Naman Goyal. ACL, 2020
 
+- Task-Independent Knowledge Makes for Transferable Representations for Generalized Zero-Shot Learning. [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16375) Chaoqun Wang, Xuejin Chen, Shaobo Min, Xiaoyan Sun, Houqiang Li. AAAI, 2021, 2710-2718.
+
+- Diversity Transfer Network for Few-Shot Learning. AAAI, 2020, 10559-10566.[pdf(download)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiYqc-B_5r1AhX_jIkEHd3ABRsQFnoECAMQAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F6628%2F6482&usg=AOvVaw3UDTPpfw1LIQlYOhWXeXlQ) Mengting Chen, Yuxin Fang, Xinggang Wang, AAAI, 2020, 10559-10566
+
 ## Survey
 
 - Generalizing from a Few Examples: A Survey on Few-shot Learning [pdf](https://dl.acm.org/doi/pdf/10.1145/3386252)
 <br> Yaqing Wang, Quanming Yao, JamesT. Kwok. ACM Computing Surveys, 2020
 
 - A Comprehensive Survey on Transfer Learning[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134370). Proceedings of the IEEE, 2020
+
 
 ## Blog
 
