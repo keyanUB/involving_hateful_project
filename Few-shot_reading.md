@@ -28,7 +28,7 @@
 - Generalizing from a Few Examples: A Survey on Few-shot Learning [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3386252)
 <br> Yaqing Wang, Quanming Yao, JamesT. Kwok. ACM Computing Surveys, 2020
 
-- A Comprehensive Survey on Transfer Learning[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134370). Proceedings of the IEEE, 2020
+- A Comprehensive Survey on Transfer Learning[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134370). Proceedings of the IEEE, 2020
 
 
 ## Blog
