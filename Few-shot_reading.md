@@ -39,6 +39,10 @@
 
 - MURAL: Multimodal, Multi-task Retrieval Across Languages [website](https://ai.googleblog.com/2021/11/mural-multimodal-multi-task-retrieval.html)
 
+## Article
+
+- Trustworthy AI. Jeannette M. Wing, Communications of the ACM, October 2021 [website](https://cacm.acm.org/magazines/2021/10/255716-trustworthy-ai/fulltext)
+
 ## Few-shot Tutorial
 Etienne Bennequin's blog: https://www.sicara.ai/blog/your-few-shot-model-15mn-pytorch
   
