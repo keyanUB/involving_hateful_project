@@ -23,6 +23,8 @@
 
 - Diversity Transfer Network for Few-Shot Learning. AAAI, 2020, 10559-10566.[[pdf(download)]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiYqc-B_5r1AhX_jIkEHd3ABRsQFnoECAMQAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F6628%2F6482&usg=AOvVaw3UDTPpfw1LIQlYOhWXeXlQ) Mengting Chen, Yuxin Fang, Xinggang Wang, AAAI, 2020, 10559-10566
 
+- Learning to Compare: Relation Network for Few-Shot Learning [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf) Flood Sung, Yongxin Yang. CVPR, 2018
+
 ## Survey
 
 - Generalizing from a Few Examples: A Survey on Few-shot Learning [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3386252)
