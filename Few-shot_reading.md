@@ -32,6 +32,8 @@
 
 - A Comprehensive Survey on Transfer Learning[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134370). Proceedings of the IEEE, 2020
 
+- A Survey on Few-Shot Learning in Natural Language Processing [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525538) Mengde Yang. AIEA, 2021
+
 
 ## Blog
 
