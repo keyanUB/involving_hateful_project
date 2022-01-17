@@ -5,34 +5,45 @@
 - Prototypical Networks for Few-shot Learning. [[pdf]](https://arxiv.org/pdf/1703.05175.pdf)
 <br> Jake Snell, Kevin Swersky, Richard S. Zemel. arxiv, 2017
 
+- Few-Shot Learning with Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/1711.04043.pdf)
+<br> Victor Garcia, Joan Bruna. ICLR, 2018
+
 - Meta-Transfer Learning for Few-Shot Learning. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
 <br> Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele.  CVPR, 2019 
 
 - Entailment as Few-Shot Learner. [[pdf]](https://arxiv.org/pdf/2104.14690.pdf) Sinong Wang, Han Fang, Madian Khabsa, Hanzi Mao, Hao Ma. arxiv, 2021(Facebook)
 
-- Induction Networks for Few-Shot Text Classification [[pdf]](https://aclanthology.org/D19-1403.pdf) Ruiying Geng, Binhua Li, Yongbin Li, EMNLP, 2019
+- Induction Networks for Few-Shot Text Classification. [[pdf]](https://aclanthology.org/D19-1403.pdf) 
+<br> Ruiying Geng, Binhua Li, Yongbin Li, EMNLP, 2019
 
 
-- SLIP: Self-supervision meets Language-Image Pre-training. [[pdf]](https://arxiv.org/pdf/2112.12750.pdf) [[code]](https://github.com/facebookresearch/SLIP) Norman Mu, Alexander Kirillov. arxiv, 2021 (Facebook)
+- SLIP: Self-supervision meets Language-Image Pre-training. [[pdf]](https://arxiv.org/pdf/2112.12750.pdf) [[code]](https://github.com/facebookresearch/SLIP) 
+<br> Norman Mu, Alexander Kirillov. arxiv, 2021 (Facebook)
 
-- Few-shot Learning with Multilingual Language Models. [[pdf]](https://arxiv.org/pdf/2112.10668.pdf) [[code]](https://github.com/pytorch/fairseq/tree/main/examples/xglm) Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe. arxiv, 2021
+- Few-shot Learning with Multilingual Language Models. [[pdf]](https://arxiv.org/pdf/2112.10668.pdf) [[code]](https://github.com/pytorch/fairseq/tree/main/examples/xglm) 
+<br> Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe. arxiv, 2021
 
-- BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension [[pdf]](https://aclanthology.org/2020.acl-main.703.pdf) [code](https://paperswithcode.com/paper/bart-denoising-sequence-to-sequence-pre) Mike Lewis, Yinhan Liu, Naman Goyal. ACL, 2020
+- BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension [[pdf]](https://aclanthology.org/2020.acl-main.703.pdf) [code](https://paperswithcode.com/paper/bart-denoising-sequence-to-sequence-pre) 
+<br> Mike Lewis, Yinhan Liu, Naman Goyal. ACL, 2020
 
-- Task-Independent Knowledge Makes for Transferable Representations for Generalized Zero-Shot Learning. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16375) Chaoqun Wang, Xuejin Chen, Shaobo Min, Xiaoyan Sun, Houqiang Li. AAAI, 2021, 2710-2718.
+- Task-Independent Knowledge Makes for Transferable Representations for Generalized Zero-Shot Learning. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16375) 
+<br> Chaoqun Wang, Xuejin Chen, Shaobo Min, Xiaoyan Sun, Houqiang Li. AAAI, 2021, 2710-2718.
 
-- Diversity Transfer Network for Few-Shot Learning. AAAI, 2020, 10559-10566.[[pdf(download)]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiYqc-B_5r1AhX_jIkEHd3ABRsQFnoECAMQAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F6628%2F6482&usg=AOvVaw3UDTPpfw1LIQlYOhWXeXlQ) Mengting Chen, Yuxin Fang, Xinggang Wang, AAAI, 2020, 10559-10566
+- Diversity Transfer Network for Few-Shot Learning. AAAI, 2020, 10559-10566.[[pdf(download)]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiYqc-B_5r1AhX_jIkEHd3ABRsQFnoECAMQAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F6628%2F6482&usg=AOvVaw3UDTPpfw1LIQlYOhWXeXlQ) 
+<br> Mengting Chen, Yuxin Fang, Xinggang Wang, AAAI, 2020, 10559-10566
 
-- Learning to Compare: Relation Network for Few-Shot Learning [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf) Flood Sung, Yongxin Yang. CVPR, 2018
+- Learning to Compare: Relation Network for Few-Shot Learning. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf) 
+<br> Flood Sung, Yongxin Yang. CVPR, 2018
 
 ## Survey
 
-- Generalizing from a Few Examples: A Survey on Few-shot Learning [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3386252)
+- Generalizing from a Few Examples: A Survey on Few-shot Learning. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3386252)
 <br> Yaqing Wang, Quanming Yao, JamesT. Kwok. ACM Computing Surveys, 2020
 
-- A Comprehensive Survey on Transfer Learning[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134370). Proceedings of the IEEE, 2020
+- A Comprehensive Survey on Transfer Learning. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134370). Proceedings of the IEEE, 2020
 
-- A Survey on Few-Shot Learning in Natural Language Processing [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525538) Mengde Yang. AIEA, 2021
+- A Survey on Few-Shot Learning in Natural Language Processing. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525538) 
+<br> Mengde Yang. AIEA, 2021
 
 
 ## Blog
