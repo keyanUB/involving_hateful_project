@@ -35,6 +35,9 @@
 - Learning to Compare: Relation Network for Few-Shot Learning. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf) 
 <br> Flood Sung, Yongxin Yang. CVPR, 2018
 
+ - Meta-Transfer Learning for Few-Shot Learning. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
+ <br> Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele. CVPR, 2019
+
 ## Survey
 
 - Generalizing from a Few Examples: A Survey on Few-shot Learning. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3386252)
